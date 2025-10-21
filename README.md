@@ -24,7 +24,7 @@ Things I have recently experimented with : PyTorch, LLM's, MCP-servers, and a lo
 My goal is to develop advanced skills in Large Language Models (LLMs) and Artificial Intelligence, and to apply them through hands-on work and research.
 </p>
 
-  <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd2eDl4cm1veDR1YjQ3YWN6end2N3MzMW12ZmduM2gydHloYmp1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6arSJwtKZBtWCRzg6d/giphy.gif" />
+
   
 ### ✨ Quick Facts
 
