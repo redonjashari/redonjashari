@@ -6,7 +6,7 @@
   <img align="left" alt="Redon's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="mailto:redon.jashari606@gmail.com">
+<a href="mailto:redon.jasharip@gmail.com">
   <img align="left" alt="Redon's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -17,21 +17,17 @@
 <p>
 Computer Science Student @Constructor University 🚀.
 <br/>
-I have worked with : Python, C, C++, JS/TS
+Software Engineering Intern @Nettxio
+<br/> 
+I have worked with : Python, C, C#, C++, JS/TS, SQL
 <br/>  
-Things I have recently experimented with : PyTorch, LLM's, MCP-servers, and a lot of other AI stuff...
-<br/>
-My goal is to develop advanced skills in Large Language Models (LLMs) and Artificial Intelligence, and to apply them through hands-on work and research.
 </p>
 
 
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working @contix (Node.js Dev.)
-- 🌱 I’m currently learning about LLM and Artificial Intelligence, and am also interested in API development
-- 💬 Ask me about anything related to C, C++, Python, JS/TS
-- 📫 How to reach me: redon.jashari606@gmail.com
+- 📫 How to reach me: redon.jasharip@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/19oe1OXNSzYNLEkZueqj19naJceoc7tqO/view?usp=sharing)
 
 ### 🛠️ Languages and Tools:
